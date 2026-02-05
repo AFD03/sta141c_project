@@ -1,1 +1,1 @@
-# sta141c_project
+# STA 141C Project
